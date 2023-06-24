@@ -13,8 +13,8 @@ This is an RP HUD system consisting of health, modifiers and a dice roll. The sy
     -  Both player's strength roll is modified according to how many points they added to the Strength skill. Whosever Strength roll is higher is the stronger player.
 
 - Health points replenish over time and can also be added or taken away from the admin HUD.
-- Players are also awarded re-rolls from a lottery tied to an SQL database or from an admin HUD. Players can choose to spend a re-roll point any time their roll is lower than their opponent's roll to get a better roll.  
-- Players can store up to 3 re-rolls
+- Players are also awarded re-roll points from a lottery tied to an SQL database or from an admin HUD. Players can choose to spend a re-roll point any time their roll is lower than their opponent's roll to get a better roll.  
+- Players can store up to 3 re-roll points.
 - Players can page an admin from their HUD to oversee/mediate a roleplay and modify their RP HUDs.
 - Player stats are also stored in the SQL database and linkset data for persistent memory across script resets, version changes, HUD updates, etc.
 
